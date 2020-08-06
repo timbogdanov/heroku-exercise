@@ -1,0 +1,24 @@
+{
+  "name": "heroku-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timbogdanov/heroku-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timbogdanov/heroku-exercise/issues"
+  },
+  "homepage": "https://github.com/timbogdanov/heroku-exercise#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
